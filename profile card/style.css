@@ -1,0 +1,27 @@
+.card{
+    box-shadow : 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title{
+    font-size: 18px;
+    color: gray;
+}
+
+a{
+    border: none;
+    outline: 5px;
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 8px;
+    width: 95%;
+    cursor:pointer;
+}
+
+a:hover{
+    opacity: 0.9;
+}
